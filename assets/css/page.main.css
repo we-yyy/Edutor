@@ -7,15 +7,15 @@ body {min-width:1600px; font-family: Pretendard, -apple-system, BlinkMacSystemFo
 .global-header .icon-logo {text-indent:-9999em;width:126px;height:40px;background-image:url(../images/logo_homepage.svg);}
 
 /* SECTION-INTRO */
-.section-intro {background: var(--gray-background);overflow: hidden;}
+.section-intro {background: #F8FAFD;overflow: hidden;}
 .section-intro .description {text-align: center; padding-top: 80px;}
-.section-intro .description h6 {color: var(--gray-text); font-size: 24px; font-weight: 700;}
+.section-intro .description h6 {color: #CAD5DF; font-size: 24px; font-weight: 700;}
 .section-intro .description h1 { font-size: 48px; font-weight: 700; line-height: 64px; padding-top: 16px;}
-.section-intro .description button {width: 245px; height: 72px; background: var(--main-blue);border-radius: 8px; margin-top: 48px;}
+.section-intro .description button {width: 245px; height: 72px; background: #0A7AFF;border-radius: 8px; margin-top: 48px;}
 .section-intro .description span {font-size: 20px; font-weight: 700; color: white;}
 
 .section-intro .description button {-webkit-transition:background 0.4s ease-out; transition:background-color 0.4s ease-out;}
-.section-intro .description button:hover {background: var(--main-red); -webkit-transition:background 0.2s ease-out; transition:background-color 0.2s ease-out;}
+.section-intro .description button:hover {background: #FF2D55; -webkit-transition:background 0.2s ease-out; transition:background-color 0.2s ease-out;}
 
 .section-intro .section-image {width: 100%; margin-top: 80px; height: 764px;} 
 .section-intro .section-shadow {box-shadow: 1px 21px 31px 0px rgba(202,213,223,0.75); -webkit-box-shadow: 1px 21px 31px 0px rgba(202,213,223,0.75); -moz-box-shadow: 1px 21px 31px 0px rgba(202,213,223,0.75); overflow: hidden;}
@@ -34,7 +34,7 @@ body {min-width:1600px; font-family: Pretendard, -apple-system, BlinkMacSystemFo
 
 
 /* XP */
-.section-xp {background: var(--gray-background); height: 1040px;}
+.section-xp {background: #F8FAFD; height: 1040px;}
 .section-xp-component {text-align: center; padding-top: 120px; }
 .section-xp .description h1 { font-size: 48px; font-weight: 700;}
 .section-xp .description p { font-size: 24px; font-weight: 300;padding-top: 16px; line-height: 40px;}
@@ -47,11 +47,11 @@ body {min-width:1600px; font-family: Pretendard, -apple-system, BlinkMacSystemFo
 .xp-button-container li .icon-subs {width: 24px;height: 24px;background-image:url(../images/section03_icon_01.svg);}
 .xp-button-container li .icon-quiz {width: 24px;height: 24px;background-image:url(../images/section03_icon_02.svg);}
 .xp-button-container li .icon-tag {width: 24px;height: 24px;background-image:url(../images/section03_icon_03.svg);}
-.xp-button-container li span {color: var(--gray-button-text);line-height: 24px; padding-left: 16px; font-size: 20px;}
+.xp-button-container li span {color: #84888B;line-height: 24px; padding-left: 16px; font-size: 20px;}
 
-.section-xp .xp-button-container li button:hover {background: var(--gray-background); -webkit-transition:all 0.3s ease-out; transition:all 0.3s ease-out;}
+.section-xp .xp-button-container li button:hover {background: #F8FAFD; -webkit-transition:all 0.3s ease-out; transition:all 0.3s ease-out;}
 
-.section-xp .xp-button-container li.selected button {background: var(--main-red);border: 0px;}
+.section-xp .xp-button-container li.selected button {background: #FF2D55;border: 0px;}
 .section-xp .xp-button-container li.selected span {color: white;}
 .xp-button-container li.selected .icon-subs {background-image:url(../images/section03_icon_01_over.svg);}
 .xp-button-container li.selected .icon-quiz {background-image:url(../images/section03_icon_02_over.svg);}
