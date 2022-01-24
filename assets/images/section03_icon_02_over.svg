@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>checkmark-done-check.1</title>
+    <g id="Edutor_PC_main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="패키지소개" transform="translate(-923.000000, -2665.000000)">
+            <g id="소개-3" transform="translate(0.000000, 2333.000000)">
+                <g id="Group-11" transform="translate(696.000000, 304.000000)">
+                    <g id="Group-8-Copy-4" transform="translate(227.000000, 27.000000)">
+                        <g id="checkmark-done-check.1" transform="translate(0.000000, 1.000000)">
+                            <polyline id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="19.464 6.688 12 14.125 8.963 11.088"></polyline>
+                            <path d="M20.284,10.117 C21.1916078,14.1079917 19.1261159,18.1790979 15.369441,19.8036472 C11.6127661,21.4281965 7.2317687,20.1448322 4.94544946,16.7500552 C2.65913023,13.3552782 3.11678236,8.81317328 6.03437089,5.94273017 C8.95195942,3.07228707 13.5009166,2.68868463 16.858,5.03" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
